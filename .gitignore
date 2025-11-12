@@ -1,0 +1,15 @@
+# Arquivos de sistema e do macOS
+.DS_Store
+._*
+
+# Xcode
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Outros
+*.swp
+*.tmp
