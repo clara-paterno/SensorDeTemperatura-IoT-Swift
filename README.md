@@ -17,7 +17,7 @@ Interface minimalista, animações sutis e foco em **visual limpo e intuitivo**.
 - Exibição em tempo real dos dados do sensor  
 - Interface responsiva com design fluido  
 - Atualização automática das leituras  
-- Efeitos visuais sutis com *Liquid Glass Modifier*
+
 
 ---
 
@@ -29,7 +29,7 @@ Interface minimalista, animações sutis e foco em **visual limpo e intuitivo**.
 ---
 
 ## 👩‍💻 Autora
-Feito por [Clara Paterno](https://github.com/clara-paterno)
-📍 Desenvolvedora em formação e estudante de engenharia da computação — apaixonada por tecnologia e design.
+-Feito por [Clara Paterno](https://github.com/clara-paterno)
+-📍 Desenvolvedora em formação e estudante de engenharia da computação — apaixonada por tecnologia e design.
 
 
